@@ -146,6 +146,10 @@ const CONFIG = {
 					name: 'Lullaby for a Princess',
 					link: 'https://www.youtube.com/watch?v=i7PQ9IO-7fU&list=RDsqYC4mpDtyg&index=3',
 				},
+				{
+					name: 'Spotify',
+					link: 'https://open.spotify.com',
+				},
 			],
 		},
 		{
