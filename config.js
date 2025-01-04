@@ -59,20 +59,20 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
+			name: 'FimFiction',
+			icon: 'book',
 			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
 			name: 'AO3',
-			icon: 'book',
+			icon: 'archive',
 			link: 'https://archiveofourown.com',
 		},
 		{
 			id: '4',
 			name: 'DDG',
-			icon: 'magnifiying-glass',
+			icon: 'search',
 			link: 'https://duckduckgo.com',
 		},
 		{
