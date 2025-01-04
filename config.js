@@ -139,20 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Moon Rises',
+					link: 'https://www.youtube.com/watch?v=aqNRBs1O_fA&list=RDsqYC4mpDtyg&index=7&t=26s,
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lullaby for a Princess',
+					link: 'https://www.youtube.com/watch?v=i7PQ9IO-7fU&list=RDsqYC4mpDtyg&index=3',
 				},
 			],
 		},
@@ -161,16 +153,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'NationStates',
+					link: 'https://www.nationstates.net',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'FimFiction',
+					link: 'https://www.fimfiction.net',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'AO3',
+					link: 'https://www.archiveofourown.com',
 				},
 				{
 					name: 'Slack',
